@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Pizzeria** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://pizzeria.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-pizzeria/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-pizzeria/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-pizzeria.git
-cd federico-demo-pizzeria
+git clone https://github.com/fedcal/demo-pizzeria.git
+cd demo-pizzeria
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:pizzeria
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-pizzeria/
+→ https://fedcal.github.io/demo-pizzeria/
 
 ## Hub demos Federico
 

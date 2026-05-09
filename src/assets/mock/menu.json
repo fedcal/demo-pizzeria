@@ -1,0 +1,192 @@
+{
+  "categorie": [
+    { "id": "classiche", "nome": "Pizze Classiche", "ordine": 1 },
+    { "id": "specialita", "nome": "Specialità della Casa", "ordine": 2 },
+    { "id": "pugliesi", "nome": "Pizze Pugliesi DOP", "ordine": 3 },
+    { "id": "vegetariane", "nome": "Vegetariane", "ordine": 4 },
+    { "id": "calzoni", "nome": "Calzoni", "ordine": 5 },
+    { "id": "menuFissi", "nome": "Menu Fissi", "ordine": 6 }
+  ],
+  "pizze": [
+    {
+      "id": 1,
+      "categoria": "classiche",
+      "nome": "Margherita",
+      "descrizione": "Pomodoro San Marzano DOP, mozzarella fior di latte, basilico, olio EVO",
+      "prezzo": 7.0,
+      "vegetariano": true,
+      "celiaco": false,
+      "premium": false,
+      "image": "/assets/img/pizze/margherita.jpg"
+    },
+    {
+      "id": 2,
+      "categoria": "classiche",
+      "nome": "Marinara",
+      "descrizione": "Pomodoro, aglio, origano, olio EVO. Senza formaggio.",
+      "prezzo": 6.5,
+      "vegetariano": true,
+      "vegano": true,
+      "celiaco": false,
+      "image": "/assets/img/pizze/marinara.jpg"
+    },
+    {
+      "id": 3,
+      "categoria": "classiche",
+      "nome": "Diavola",
+      "descrizione": "Pomodoro, mozzarella, salame piccante calabrese",
+      "prezzo": 9.5,
+      "vegetariano": false,
+      "image": "/assets/img/pizze/diavola.jpg"
+    },
+    {
+      "id": 4,
+      "categoria": "classiche",
+      "nome": "Capricciosa",
+      "descrizione": "Pomodoro, mozzarella, prosciutto cotto, funghi, carciofini, olive",
+      "prezzo": 10.5,
+      "vegetariano": false,
+      "image": "/assets/img/pizze/capricciosa.jpg"
+    },
+    {
+      "id": 5,
+      "categoria": "classiche",
+      "nome": "Quattro Formaggi",
+      "descrizione": "Mozzarella, gorgonzola DOP, parmigiano 24 mesi, scamorza affumicata",
+      "prezzo": 11.0,
+      "vegetariano": true,
+      "image": "/assets/img/pizze/quattro-formaggi.jpg"
+    },
+    {
+      "id": 6,
+      "categoria": "pugliesi",
+      "nome": "Pugliese DOP",
+      "descrizione": "Pomodoro, mozzarella di bufala campana DOP, cipolla rossa di Acquaviva, olive nere di Cerignola",
+      "prezzo": 11.5,
+      "vegetariano": true,
+      "premium": true,
+      "image": "/assets/img/pizze/pugliese.jpg"
+    },
+    {
+      "id": 7,
+      "categoria": "pugliesi",
+      "nome": "Burrata e Crudo",
+      "descrizione": "Pomodoro, burrata di Andria DOP, prosciutto crudo di Parma 24 mesi, rucola fresca",
+      "prezzo": 13.5,
+      "premium": true,
+      "image": "/assets/img/pizze/burrata-crudo.jpg"
+    },
+    {
+      "id": 8,
+      "categoria": "pugliesi",
+      "nome": "Cime di Rapa e Salsiccia",
+      "descrizione": "Mozzarella, cime di rapa fresche, salsiccia pugliese stagionata",
+      "prezzo": 12.0,
+      "image": "/assets/img/pizze/cime-rapa.jpg"
+    },
+    {
+      "id": 9,
+      "categoria": "specialita",
+      "nome": "Tartufo",
+      "descrizione": "Mozzarella, crema di tartufo nero estivo, funghi porcini, scaglie di parmigiano",
+      "prezzo": 14.0,
+      "vegetariano": true,
+      "premium": true,
+      "image": "/assets/img/pizze/tartufo.jpg"
+    },
+    {
+      "id": 10,
+      "categoria": "specialita",
+      "nome": "Mortadella e Pistacchio",
+      "descrizione": "Mozzarella di bufala, mortadella IGP, granella di pistacchio di Bronte DOP",
+      "prezzo": 12.5,
+      "image": "/assets/img/pizze/mortadella.jpg"
+    },
+    {
+      "id": 11,
+      "categoria": "specialita",
+      "nome": "Salmone e Avocado",
+      "descrizione": "Mozzarella, salmone affumicato, avocado, lime, pepe rosa",
+      "prezzo": 13.0,
+      "image": "/assets/img/pizze/salmone.jpg"
+    },
+    {
+      "id": 12,
+      "categoria": "vegetariane",
+      "nome": "Vegetariana",
+      "descrizione": "Pomodoro, mozzarella, melanzane, zucchine, peperoni grigliati",
+      "prezzo": 9.0,
+      "vegetariano": true,
+      "image": "/assets/img/pizze/vegetariana.jpg"
+    },
+    {
+      "id": 13,
+      "categoria": "vegetariane",
+      "nome": "Bufalina Vegana",
+      "descrizione": "Pomodoro, mozzarella vegetale, basilico, pomodorini gialli, olio EVO",
+      "prezzo": 10.0,
+      "vegetariano": true,
+      "vegano": true,
+      "image": "/assets/img/pizze/vegana.jpg"
+    },
+    {
+      "id": 14,
+      "categoria": "calzoni",
+      "nome": "Calzone Classico",
+      "descrizione": "Ricotta, mozzarella, prosciutto cotto, pomodoro fresco in superficie",
+      "prezzo": 9.5,
+      "image": "/assets/img/pizze/calzone-classico.jpg"
+    },
+    {
+      "id": 15,
+      "categoria": "calzoni",
+      "nome": "Calzone Pugliese",
+      "descrizione": "Ricotta forte di Bari, cipolla, olive, capperi",
+      "prezzo": 10.5,
+      "vegetariano": true,
+      "image": "/assets/img/pizze/calzone-pugliese.jpg"
+    }
+  ],
+  "menuFissi": [
+    {
+      "id": "pranzo",
+      "nome": "Menu Pranzo",
+      "descrizione": "Pizza margherita o marinara + bibita 33cl + caffè espresso",
+      "prezzo": 10.0,
+      "orario": "12:00 – 15:00 Lun – Ven (esclusi festivi)",
+      "image": "/assets/img/menu/pranzo.jpg"
+    },
+    {
+      "id": "famiglia",
+      "nome": "Menu Famiglia",
+      "descrizione": "2 pizze classiche + 2 bibite 33cl + 1 dolce a scelta",
+      "prezzo": 28.0,
+      "orario": "Sempre disponibile",
+      "image": "/assets/img/menu/famiglia.jpg"
+    },
+    {
+      "id": "degustazione",
+      "nome": "Degustazione Pugliese",
+      "descrizione": "3 pizze pugliesi a porzione (Pugliese, Burrata, Cime di Rapa) + tagliere antipasti + dolce",
+      "prezzo": 22.0,
+      "orario": "Solo cena, max 4 persone",
+      "image": "/assets/img/menu/degustazione.jpg"
+    }
+  ],
+  "bevande": [
+    { "nome": "Acqua naturale 0.5L", "prezzo": 1.5 },
+    { "nome": "Acqua frizzante 0.5L", "prezzo": 1.5 },
+    { "nome": "Coca-Cola 33cl", "prezzo": 3.0 },
+    { "nome": "Birra Peroni 33cl", "prezzo": 3.5 },
+    { "nome": "Birra artigianale pugliese 33cl", "prezzo": 5.0 },
+    { "nome": "Vino della casa Primitivo 0.25L", "prezzo": 4.5 },
+    { "nome": "Vino della casa Primitivo 0.5L", "prezzo": 8.0 },
+    { "nome": "Vino della casa Primitivo bottiglia", "prezzo": 14.0 }
+  ],
+  "dolci": [
+    { "nome": "Tiramisù della casa", "prezzo": 5.0 },
+    { "nome": "Pasticciotto leccese", "prezzo": 4.0 },
+    { "nome": "Cannolo siciliano", "prezzo": 4.5 },
+    { "nome": "Gelato artigianale", "prezzo": 4.0 }
+  ]
+}

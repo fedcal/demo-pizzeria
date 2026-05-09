@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Effettuate consegne a domicilio?",
+      "risposta": "Sì, consegniamo entro un raggio di 5km dal centro di Bari. Tempo medio 30-45 minuti. Costo €2,50, gratuita sopra €25 di ordine."
+    },
+    {
+      "domanda": "Avete opzioni senza glutine?",
+      "risposta": "Sì, abbiamo impasto certificato senza glutine. Va richiesto al momento della prenotazione (sovrapprezzo €2). Forno separato dedicato."
+    },
+    {
+      "domanda": "Posso prenotare un tavolo per gruppi?",
+      "risposta": "Sì, accettiamo gruppi fino a 30 persone. Per gruppi sopra 15 persone è richiesto il menu degustazione concordato 48h prima."
+    },
+    {
+      "domanda": "Si accettano carte di credito?",
+      "risposta": "Accettiamo tutte le carte (Visa, Mastercard, American Express), bancomat, contactless, Satispay e bonifico immediato."
+    },
+    {
+      "domanda": "Avete pizze senza lattosio?",
+      "risposta": "Sì, su richiesta usiamo mozzarella vegetale o eliminiamo del tutto il formaggio. La Marinara è naturalmente senza latticini."
+    },
+    {
+      "domanda": "Posso ordinare online?",
+      "risposta": "Sì, dal nostro sito puoi ordinare direttamente per asporto o consegna. WhatsApp +39 333 1234 567 attivo 11:00-23:00."
+    },
+    {
+      "domanda": "C'è il parcheggio?",
+      "risposta": "Convenzione con parcheggio Roma Centro (50m), 2h gratuite per i nostri clienti. Mostra lo scontrino all'uscita."
+    },
+    {
+      "domanda": "Ci sono opzioni per bambini?",
+      "risposta": "Abbiamo seggioloni, menu kids €8 (mini margherita + bibita + gelato) e tovagliette da colorare con matite gratuite."
+    }
+  ]
+}

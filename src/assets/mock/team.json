@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Mario Esposito",
+      "ruolo": "Pizzaiolo Master e Fondatore",
+      "bio": "Pizzaiolo dal 1987, formato a Napoli, custode di una ricetta familiare per l'impasto a 48h di lievitazione naturale.",
+      "anniEsperienza": 38,
+      "image": "/assets/img/team/mario.jpg",
+      "specialita": ["Impasto a 48h", "Forno a legna", "Pizze pugliesi"]
+    },
+    {
+      "id": 2,
+      "nome": "Giuseppe Esposito",
+      "ruolo": "Pizzaiolo Junior",
+      "bio": "Figlio di Mario, ha imparato il mestiere a 16 anni. Specializzato in pizze contemporanee e farine alternative.",
+      "anniEsperienza": 12,
+      "image": "/assets/img/team/giuseppe.jpg",
+      "specialita": ["Pizza in pala", "Farine integrali", "Lievito madre"]
+    },
+    {
+      "id": 3,
+      "nome": "Anna Romano",
+      "ruolo": "Sala e Sommelier",
+      "bio": "Esperta di vini pugliesi, gestisce sala e abbinamenti con i nostri Primitivo, Negroamaro e Verdeca.",
+      "anniEsperienza": 18,
+      "image": "/assets/img/team/anna.jpg",
+      "specialita": ["Sommelier AIS", "Vini Puglia DOC", "Servizio sala"]
+    },
+    {
+      "id": 4,
+      "nome": "Luigi Bianco",
+      "ruolo": "Capo Forno",
+      "bio": "Responsabile del forno a legna in mattoni refrattari. Garantisce 90 secondi di cottura perfetta.",
+      "anniEsperienza": 22,
+      "image": "/assets/img/team/luigi.jpg",
+      "specialita": ["Forno a legna", "Cottura 480°C", "Manutenzione forno"]
+    }
+  ]
+}

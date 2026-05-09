@@ -1,0 +1,50 @@
+{
+  "ragioneSociale": "Pizzeria da Mario S.r.l.",
+  "nomeCommerciale": "Da Mario — Pizzeria Pugliese",
+  "tagline": "Pizza autentica nel cuore di Bari, dal 1987",
+  "indirizzo": {
+    "via": "Via Roma 42",
+    "citta": "Bari",
+    "provincia": "BA",
+    "cap": "70121",
+    "regione": "Puglia",
+    "paese": "Italia",
+    "lat": 41.1171,
+    "lng": 16.8719
+  },
+  "contatti": {
+    "telefono": "+39 080 555 1234",
+    "whatsapp": "+39 333 1234 567",
+    "email": "info@pizzeriadamario.it",
+    "social": {
+      "instagram": "https://instagram.com/pizzeriadamario_demo",
+      "facebook": "https://facebook.com/pizzeriadamario_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "Chiuso",
+    "martedi": "12:00 – 15:00 / 19:00 – 23:30",
+    "mercoledi": "12:00 – 15:00 / 19:00 – 23:30",
+    "giovedi": "12:00 – 15:00 / 19:00 – 23:30",
+    "venerdi": "12:00 – 15:00 / 19:00 – 24:00",
+    "sabato": "12:00 – 15:00 / 19:00 – 24:00",
+    "domenica": "19:00 – 23:30"
+  },
+  "servizi": {
+    "consegnaDomicilio": true,
+    "asportoOnline": true,
+    "raggioConsegnaKm": 5,
+    "parcheggioConvenzionato": true,
+    "accessibileDisabili": true,
+    "petFriendly": false,
+    "wifiGratuito": true,
+    "ariaCondizionata": true,
+    "tavoliEsterni": true,
+    "postiAtTotali": 60
+  },
+  "metaSeo": {
+    "title": "Pizzeria da Mario — Pizza pugliese a Bari dal 1987",
+    "description": "Pizzeria storica nel centro di Bari. Forno a legna, ingredienti pugliesi DOP, consegna a domicilio in 5km. Prenota un tavolo o ordina online.",
+    "keywords": ["pizzeria bari", "pizza pugliese", "ristorante bari centro", "consegna pizza bari"]
+  }
+}
